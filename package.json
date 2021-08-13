@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode=development",
     "start": "webpack server --mode=development",
-    "typedoc": "typedoc --out ./docs/ ./src/",
+    "typedoc": "typedoc --out ./tsdoc/ ./src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
