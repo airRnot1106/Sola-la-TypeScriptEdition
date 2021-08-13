@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.control {
+  position: absolute;
+  top: 450px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.select {
+  float: left;
+}
+
+.play {
+  float: left;
+  padding-left: 10px;
+  border-left: 5px solid;
+}
+
+h3#secret {
+  color: red;
+}
